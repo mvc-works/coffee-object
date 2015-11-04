@@ -1,6 +1,6 @@
 {
   "name": "coffee-object",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make it easier to create Objects in CoffeeScript.",
   "main": "lib/index.js",
   "scripts": {
@@ -17,10 +17,7 @@
     "gulp": "^3.9.0",
     "gulp-coffee": "^2.3.1"
   },
-  "dependencies": {
-    "gulp": "^3.9.0",
-    "gulp-coffee": "^2.3.1"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mvc-works/coffee-object.git"
