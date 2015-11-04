@@ -13,7 +13,8 @@ npm i --save coffee-object
 ```coffee
 o = require 'coffee-object'
 
-o a: 1, b: 2 # {a: 1}
+o a: 1, b: 2
+# {a: 1, b: 2}
 
 o a: 1,
   b: 2
